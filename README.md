@@ -30,6 +30,7 @@ Requirements:
 
 
 Change Log:
+
 Version 5.9.0.9
 + Fixed Bug: Changelog was not appearing when updating via BnS Buddy
 
